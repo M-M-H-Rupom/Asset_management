@@ -1,1 +1,4 @@
-alert(" hello main");
+
+;(function($){
+    alert(personal_data.name);
+})(jQuery);
